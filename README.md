@@ -6,4 +6,4 @@ and order medical products, track orders, and manage product data
 through Firebase integration. The app emphasizes user-friendly design,
 fast performance, and essential pharmacy functions.
 
-This Appliction Develop By Android.
+This Appliction Develop by Android Programming Language.
