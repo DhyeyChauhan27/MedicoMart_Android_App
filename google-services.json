@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "97755473118",
+    "project_id": "medicomart-d29c1",
+    "storage_bucket": "medicomart-d29c1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97755473118:android:a39e9cd23857ca20560e4f",
+        "android_client_info": {
+          "package_name": "com.example.medicomart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAznphK1I_gcg7em5a0AIPyTn3NzRaBQwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

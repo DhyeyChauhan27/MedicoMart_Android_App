@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:cardCornerRadius="3dp"
+    app:cardElevation="2dp"
+    android:layout_marginTop="20dp">
+
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
+        android:layout_marginBottom="12dp">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="92dp"
+            android:layout_height="92dp"
+            android:src="@drawable/omnigelgel"
+            app:civ_border_color="@color/black" />
+
+        <LinearLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_gravity="center"
+            android:layout_marginLeft="10dp">
+
+            <TextView
+                 android:id="@+id/mname"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:text="Omnigel Gel 75gm"
+                 android:textSize="16sp"
+                 android:textStyle="bold"
+                 android:layout_marginTop="6dp"/>
+
+            <TextView
+                android:id="@+id/mprice"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="₹257.14"
+                android:textSize="16sp"
+                android:textStyle="normal"
+                android:layout_marginTop="6dp"/>
+
+            <TextView
+                android:id="@+id/mdeliver"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Delivery by Tomorrow,before 10:00pm"
+                android:textSize="13sp"
+                android:textStyle="bold"
+                android:layout_marginTop="6dp"/>
+
+        </LinearLayout>
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
