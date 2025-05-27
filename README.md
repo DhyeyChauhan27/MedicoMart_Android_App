@@ -1,8 +1,9 @@
 # MedicoMart_Android_App
 
-In this task we have create a software which manages the stock an
-sales the medicine and billing system also generate the bill for the
-respective medicine which has been purchase in this software also
-including sales report section.
+MedicoMart is a fully functional Android-based e-commerce application
+tailored for the healthcare industry. It allows users to browse, search,
+and order medical products, track orders, and manage product data
+through Firebase integration. The app emphasizes user-friendly design,
+fast performance, and essential pharmacy functions.
 
 This Appliction Develop By Android.
